@@ -2,7 +2,7 @@
 
 ## Resumo
 
-Este projeto foi desenvolvido entre janeiro de 2020 e junho de 2020 como parte do trabalho associado ao IF Goiano (Oficial). Consistiu na criação de uma rede neural convolucional projetada para analisar imagens e identificar câncer de pele maligno.
+Este projeto foi desenvolvido entre janeiro de 2020 e junho de 2020 como parte do trabalho associado ao IF Goiano . Consistiu na criação de uma rede neural convolucional projetada para analisar imagens e identificar câncer de pele maligno.
 
 ## Descrição
 
